@@ -50,12 +50,8 @@ This project implements an **8-bit magnitude comparator** using **Verilog and Sy
 3. **Physical Design in OpenROAD**  
    *(Screenshot of the comparator’s project in OpenROAD, showing floorplanning, placement, and routing.)*  
    
-   ![image](https://github.com/user-attachments/assets/example3.png)  
+   ![image]([https://github.com/user-attachments/assets/example3.png](https://github.com/Chetana-Shivaraja/Magnitude_comparator_8bit/blob/main/reports/final_all.webp.png))  
 
-4. **Final Layout of the Comparator**  
-   *(Final GDS layout visualized in KLayout.)*  
-   
-   ![image](https://github.com/user-attachments/assets/example4.png)  
 
 ### **How to Run the Project**  
 
@@ -94,5 +90,5 @@ This project implements an **8-bit magnitude comparator** using **Verilog and Sy
 ---
 
 ### **Contributors**  
-- **[Your Name](https://github.com/Chetana-Shivaraja)**
+- **[Chetana](https://github.com/Chetana-Shivaraja)**
 
