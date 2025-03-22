@@ -40,7 +40,7 @@ This project implements an **8-bit magnitude comparator** using **Verilog and Sy
 1. **Verilog Design & Testbench Code with Simulation Output**  
    *(Screenshot showing the Verilog code for the magnitude comparator, testbench, and its output in EDA Playground.)*  
    
-   ![image](https://github.com/user-attachments/assets/example1.png)  
+   ![image](https://github.com//assets/example1.png)  
 
 2. **Waveform Output of the Comparator**  
    *(Graphical waveform representation showing correct comparisons.)*  
@@ -94,5 +94,5 @@ This project implements an **8-bit magnitude comparator** using **Verilog and Sy
 ---
 
 ### **Contributors**  
-- **[Your Name](https://github.com/yourgithub)**
+- **[Your Name](https://github.com/Chetana-Shivaraja)**
 
