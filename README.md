@@ -46,7 +46,7 @@ This project implements an **8-bit magnitude comparator** using **Verilog and Sy
 ### **How to Run the Project**  
 
 #### **Running the UVM Testbench**  
-1. Open **[EDA Playground](https://www.edaplayground.com/)**.  
+1. Open **[EDA Playground](https://edaplayground.com/x/nyv2)**.  
 2. Upload the **UVM testbench files** from the `/UVM/` folder.  
 3. Select **UVM simulator** and run the testbench.  
 
