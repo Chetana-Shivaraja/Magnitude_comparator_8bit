@@ -35,19 +35,9 @@ This project implements an **8-bit magnitude comparator** using **Verilog and Sy
 | **KLayout**       | Layout visualization |  
 
 ---
-### **Project Result Screenshots**  
+### **Project Result **  
 
-1. **Verilog Design & Testbench Code with Simulation Output**  
-   *(Screenshot showing the Verilog code for the magnitude comparator, testbench, and its output in EDA Playground.)*  
-   
-   ![image](https://github.com//assets/example1.png)  
-
-2. **Waveform Output of the Comparator**  
-   *(Graphical waveform representation showing correct comparisons.)*  
-   
-   ![image](https://github.com/user-attachments/assets/example2.png)  
-
-3. **Physical Design in OpenROAD**  
+1. **Physical Design in OpenROAD**  
    *(Screenshot of the comparator’s project in OpenROAD, showing floorplanning, placement, and routing.)*  
    
    ![image](https://github.com/Chetana-Shivaraja/Magnitude_comparator_8bit/blob/main/reports/final_all.webp.png))  
